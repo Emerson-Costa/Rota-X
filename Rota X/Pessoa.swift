@@ -11,17 +11,17 @@ import Foundation
 class Pessoa{
     
     var nome: String
-    var idade: String
+    var idade: Int
     var cpf : String
-    var enderenco: Enderenco
+    var endereco: Endereco
     
     
-    init () {
-    nome  = ""
-    idade = ""
-    cpf = ""
-    
-    
+    init (nome: String, idade: Int, cpf: String, endereco: Endereco) {
+        self.nome      = nome
+        self.idade     = idade
+        self.cpf       = cpf
+        self.endereco = endereco
+        
     }
     
 }

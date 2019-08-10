@@ -7,3 +7,16 @@
 //
 
 import Foundation
+
+class Dimensoes{
+    var peso   : Double
+    var largura: Double
+    var altura : Double
+    
+    init(peso2: Double, largura2: Double, altura2: Double ){
+        self.peso = peso2
+        self.largura = largura2
+        self.altura = altura2
+        
+    }
+}

@@ -19,6 +19,7 @@
 		3F8E0ED822FCEC5D00B87F59 /* Dimensoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E0ED722FCEC5D00B87F59 /* Dimensoes.swift */; };
 		3F8E0EDA22FCEC7D00B87F59 /* Carro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E0ED922FCEC7D00B87F59 /* Carro.swift */; };
 		3F8E0EDC22FCECB400B87F59 /* Relatorio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E0EDB22FCECB400B87F59 /* Relatorio.swift */; };
+		3FC8251D22FE37EE000C396D /* Produto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC8251C22FE37EE000C396D /* Produto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		3F8E0ED722FCEC5D00B87F59 /* Dimensoes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dimensoes.swift; sourceTree = "<group>"; };
 		3F8E0ED922FCEC7D00B87F59 /* Carro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Carro.swift; sourceTree = "<group>"; };
 		3F8E0EDB22FCECB400B87F59 /* Relatorio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Relatorio.swift; sourceTree = "<group>"; };
+		3FC8251C22FE37EE000C396D /* Produto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Produto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				3F8E0ED722FCEC5D00B87F59 /* Dimensoes.swift */,
 				3F8E0ED922FCEC7D00B87F59 /* Carro.swift */,
 				3F8E0EDB22FCECB400B87F59 /* Relatorio.swift */,
+				3FC8251C22FE37EE000C396D /* Produto.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				3F8E0ED622FCEC0B00B87F59 /* Endereco.swift in Sources */,
 				3F8E0ED222FCEBDC00B87F59 /* Motorista.swift in Sources */,
 				3F8E0EBD22FCEB3900B87F59 /* ViewController.swift in Sources */,
+				3FC8251D22FE37EE000C396D /* Produto.swift in Sources */,
 				3F8E0ED022FCEBC500B87F59 /* Pessoa.swift in Sources */,
 				3F8E0ED422FCEBEB00B87F59 /* Usuario.swift in Sources */,
 				3F8E0EDC22FCECB400B87F59 /* Relatorio.swift in Sources */,
@@ -353,6 +357,7 @@
 				3F8E0ECB22FCEB3900B87F59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

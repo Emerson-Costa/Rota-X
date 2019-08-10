@@ -9,7 +9,11 @@
 import Foundation
 
 class Carro {
-    
-    
-    
+    var placa : String
+    var modelo: String
+
+    init(placa2: String, modelo2: String){
+        self.placa  = placa2
+        self.modelo = modelo2
+    }
 }
