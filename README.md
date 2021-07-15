@@ -1,2 +1,3 @@
 # Rota-X
-Projeto Feito no Hackatruck-UFMS/2019
+## Projeto de entrega de encomendas Feito no Hackatruck-UFMS/2019
+Este projeto se encontra descontinuado.
